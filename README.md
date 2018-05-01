@@ -1,7 +1,7 @@
 # Computation of Overlap Components in linear time
 
 ### About
-This algorithm accompanies the following paper:
+This code, written by Michael Rao, accompanies the following paper:
 
 P. Charbit, M. Habib, V. Limouzy, F. de Montgolfier, M. Raffinot, M. Rao. 
 A note on computing set overlap classes 
@@ -12,6 +12,7 @@ I am using it as a step in computing the modular decomposition of directed graph
 ### License:
 
 Copyright (C) 2007  Michael Rao
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
